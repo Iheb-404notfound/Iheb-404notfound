@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 I'm Iheb, an ICT Engineering Student and an ML enthusiast ✨  
 💬 Ask me about Software Engineering, Machine Learning, Data Science, DevOps, Cloud, and Mathematics. I love science!  
-📫 How to reach me: Facebook, LinkedIn, Mail
-😄 Pronouns: He/Him
-⚡ Fun fact: I'm allergic to AINS
+📫 How to reach me: Facebook, LinkedIn, Mail  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I'm allergic to AINS  
